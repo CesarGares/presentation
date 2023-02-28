@@ -1,12 +1,11 @@
 # Hi!
 
-If you are here, that means you are using one of my company or personal apps. (Here you can find only the source code from my personal projects)
-Thank you for the support.
+If you are here, that means you are using one of my company or personal apps.   
+Thank you for all the support.
 
 
 I will read your feedback asap
-
-
+      
 Social Networks
 
 [Facebook](https://www.facebook.com/iphysics524)  
