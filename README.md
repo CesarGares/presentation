@@ -5,7 +5,7 @@ If you are here, that means you are using one of my company or personal apps.
 Thank you for all the support.
 
 
-I will read your feedback asap on my social networks
+I am glad to read your feedback and comments.
 
 [Facebook](https://www.facebook.com/iphysics524)  
 [Instagram](https://www.instagram.com/cesar_gares/)   
