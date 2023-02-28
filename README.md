@@ -9,8 +9,8 @@ I will read your feedback asap
 
 Social Networks
 
-fb: facebook.com/iphysics524
+[Facebook](https://www.facebook.com/iphysics524)
 
-ig: cesar_gares
+[Instagram](https://www.instagram.com/cesar_gares/)
 
-linkedin: linkedin.com/in/cesargares
+[LinkedIn](https://www.linkedin.com/in/cesargares)
