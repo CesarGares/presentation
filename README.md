@@ -1,6 +1,6 @@
 # Hi!
 
-If you are here, that means you are using one of my company or open source apps.
+If you are here, that means you are using one of my company or personal apps. (Here you can find only the source code from my personal projects)
 Thank you for the support.
 
 
