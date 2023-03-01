@@ -7,6 +7,7 @@ Thank you for all the support.
 
 I am glad to read your feedback and comments.
 
-[Facebook](https://www.facebook.com/iphysics524)  
+[LinkedIn](https://www.linkedin.com/in/cesargares)    
 [Instagram](https://www.instagram.com/cesar_gares/)   
-[LinkedIn](https://www.linkedin.com/in/cesargares)  
+[Facebook](https://www.facebook.com/iphysics524)  
+
