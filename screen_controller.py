@@ -1,5 +1,5 @@
 """
-ESTA CLASE UTILIZA PYAUTOGUI PARA PERMITIR CONTROLAR ELEMENTOS DE LA PANTALLA, POR EJEMPLO
+ESTA CLASE UTILIZA PYAUTOGUI PARA PERMITIR CONTROLAR ELEMENTOS DE LA PANTALLA Y SIMULAR EL COMPARTAMIENTO HUMANO, POR EJEMPLO
 watch() Se espera hasta que localiza una imagen en pantalla
 lookforimage() Busca una imagen entre los diferentes programas del SO, se desplaza entre ventanas utilizando el atajo alt+tab
 decide() Busca dos imagenes, cuando encuentre alguna de las dos regresa el valor de la que encontro 1 o 2
